@@ -4,15 +4,16 @@ channels:
  - conda-forge
  - defaults
 dependencies:
- - zstd<=1.3.3
  - awscli>=1.15.16
- - perl>=5.16.0
- - perl-biox-seq
- - perl-ms
- - perl-app-cpanminus
- - perl-yaml-tiny
- - openms
- - flashlfq
  - bioconductor-msnbase
  - fido
+ - flashlfq
  - msgf_plus
+ - openms
+ - perl>=5.16.0
+ - perl-app-cpanminus
+ - perl-biox-seq
+ - perl-ms
+ - perl-yaml-tiny
+ - xorg-libxrender
+ - zstd<=1.3.3
