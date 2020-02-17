@@ -8,6 +8,7 @@ dependencies:
  - bioconductor-msnbase
  - fido
  - flashlfq
+ - libxslt
  - msgf_plus
  - openms
  - perl>=5.16.0
