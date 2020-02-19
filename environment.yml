@@ -16,5 +16,6 @@ dependencies:
  - perl-biox-seq
  - perl-ms
  - perl-yaml-tiny
+ - proteowizard
  - xorg-libxrender
  - zstd<=1.3.3
